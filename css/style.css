@@ -1,16 +1,17 @@
 body {
+  /* young~~~~~ */
   width: 70%;
   padding-top: 5%;
   text-align: center;
   margin: 0 auto;
-  background-color: rgb(114, 244, 205);
+  background-color: rgb(229, 229, 247);
 }
 
 button {
   padding: 20px;
   border-radius: 8px;
   text-decoration: none;
-  border: 1px solid rgb(10, 54, 226);
+  border: 1px solid rgb(226, 10, 172);
   color: #fff;
 }
 input {
