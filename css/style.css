@@ -3,14 +3,15 @@ body {
   padding-top: 5%;
   text-align: center;
   margin: 0 auto;
-  background-color: bisque;
+  background-color: rgb(114, 244, 205);
 }
 
 button {
   padding: 20px;
   border-radius: 8px;
   text-decoration: none;
-  border: 1px solid goldenrod;
+  border: 1px solid rgb(10, 54, 226);
+  color: #fff;
 }
 input {
   padding: 20px;
